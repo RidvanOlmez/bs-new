@@ -1,0 +1,48 @@
+     
+.imgSlide{
+    height: 600px;
+}
+body{
+    padding-top: 50px;
+      font-family: "Montserrat", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 300;
+      font-style: normal;
+    
+}
+.AboutUs{
+    background-color: #f2f2f2;
+}
+.ten{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.eleven{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.Twelve{
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+.thirteen:hover{
+    opacity: 0.8;
+}
+
+.galeri{
+    background-color: #f2f2f2;
+}
+.figure:hover{
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+}
